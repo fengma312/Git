@@ -31,3 +31,4 @@ E:\STD\Git\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
 E:\STD\Git\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 E:\STD\Git\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 E:\STD\Git\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+E:\STD\Git\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
